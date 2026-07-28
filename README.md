@@ -2,6 +2,10 @@
 
 A child-friendly, interactive graphical user interface (GUI) desktop application designed to help preschool students learn alphabets through multi-sensory feedback, interactive tracing, and progress tracking.
 
+---
+
+## 📸 Preview
+
 <img width="959" height="488" alt="Screenshot 2026-07-27 120326" src="https://github.com/user-attachments/assets/44dae079-3cf2-4f23-b453-8a098257b3ad" />
 <img width="959" height="488" alt="Screenshot 2026-07-27 120344" src="https://github.com/user-attachments/assets/a3277d79-3ea7-4e4c-b463-dc233bf21483" />
 <img width="959" height="485" alt="Screenshot 2026-07-27 120550" src="https://github.com/user-attachments/assets/0fa6b959-9bf2-4800-aa39-53c599ee71e3" />
@@ -9,6 +13,7 @@ A child-friendly, interactive graphical user interface (GUI) desktop application
 <img width="959" height="486" alt="Screenshot 2026-07-27 122417" src="https://github.com/user-attachments/assets/c3931684-146d-42ce-91bc-1e3095bbeb92" />
 
 ---
+
 ## 🌟 Key Features
 
 * **Interactive Noun & Media Integration:** Each alphabet features high-quality visual associations, audio pronunciations, and embedded video support to reinforce learning.
