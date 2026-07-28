@@ -2,11 +2,14 @@
 
 A child-friendly, interactive graphical user interface (GUI) desktop application designed to help preschool students learn alphabets through multi-sensory feedback, interactive tracing, and progress tracking.
 
-🌟 Key Features
--***Interactive Noun & Media Integration**: Each alphabet features high-quality visual associations, audio pronunciations, and embedded video support to reinforce learning.
--Letter Tracing Canvas: Hands-on writing and tracing interface allowing young learners to practice letter formations directly on screen.
-- Progress & History Tracking: Tracks student activity and completion history per letter using an object-oriented data model.
-- Child-Centric UI/UX: Clean, colorful, and accessible interface designed specifically to minimize friction for early childhood learners.
+---
+
+## 🌟 Key Features
+
+* **Interactive Noun & Media Integration:** Each alphabet features high-quality visual associations, audio pronunciations, and embedded video support to reinforce learning.
+* **Letter Tracing Canvas:** Hands-on writing and tracing interface allowing young learners to practice letter formations directly on screen.
+* **Progress & History Tracking:** Tracks student activity and completion history per letter using an object-oriented data model.
+* **Child-Centric UI/UX:** Clean, colorful, and accessible interface designed specifically to minimize friction for early childhood learners.
 
 ---
 
