@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/alphabets">
+        <file>videos/nouns/A_apple_ant.mp4.mp4</file>
+        <file>videos/nouns/B_bat_ball.mp4.mp4</file>
+        <file>videos/nouns/C_cat_cup.mp4.mp4</file>
+        <file>videos/nouns/D_dog_dot.mp4.mp4</file>
+        <file>videos/nouns/E_egg_elephant.mp4.mp4</file>
+        <file>videos/nouns/F_frog_fish.mp4.mp4</file>
+        <file>videos/nouns/G_goat_grass.mp4.mp4</file>
+        <file>videos/nouns/H_hand_hat.mp4.mp4</file>
+        <file>videos/nouns/I_ink_insect.mp4.mp4</file>
+        <file>videos/nouns/J_juice_jar.mp4.mp4</file>
+        <file>videos/nouns/K_king_kite.mp.mp4</file>
+        <file>videos/nouns/L_lab_leaf.mp4.mp4</file>
+        <file>videos/nouns/M_man_monkey.mp4.mp4</file>
+        <file>videos/nouns/N_neck_nose.mp4.mp4</file>
+        <file>videos/nouns/O_ocean_oar.mp4.mp4</file>
+        <file>videos/nouns/P_plum_parrot.mp4.mp4</file>
+        <file>videos/nouns/Q_queen_quail.mp4.mp4</file>
+        <file>videos/nouns/R_rope_rat.mp4.mp4</file>
+        <file>videos/nouns/S_sun_sunflower.mp4.mp4</file>
+        <file>videos/nouns/T_tap_tub.mp4.mp4</file>
+        <file>videos/nouns/U_uncle_umbrella.mp4.mp4</file>
+        <file>videos/nouns/V_violin_violet.mp4.mp4</file>
+        <file>videos/nouns/W_well_water.mp4.mp4</file>
+        <file>videos/nouns/X_box_fox.mp4.mp4</file>
+        <file>videos/nouns/Y_yacht_yellow.mp4.mp4</file>
+        <file>videos/nouns/Z_zoo_zebra.mp4.mp4</file>
+    </qresource>
+</RCC>
