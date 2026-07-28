@@ -15,19 +15,19 @@ A child-friendly, interactive graphical user interface (GUI) desktop application
 
 ## 🛠️ Built With
 
+* **Framework & IDE:** Qt Creator / Qt Framework (Qt Widgets)
+* **Language:** C++
 * **Architecture:** Object-Oriented Programming (OOP)
 * **Interface:** Graphical User Interface (GUI)
-* **Environment:** Visual Studio Code / MinGW
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-Make sure you have a C++ compiler installed (e.g., MinGW for Windows) or the appropriate runtime setup for your GUI framework.
+* Qt Creator installed with a compatible C++ compiler (e.g., MinGW or MSVC).
 
-### Installation & Run
-
-1. **Clone the repository:**
+### How to Run
+1. Clone this repository:
    ```bash
    git clone [https://github.com/muzairsajid102/YOUR-REPO-NAME.git](https://github.com/muzairsajid102/YOUR-REPO-NAME.git)
